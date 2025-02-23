@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Ken",
+    "description": "Ken"
+  },
+  "data": [
+    {
+      "name": "Fanqie",
+      "author": "Ken",
+      "path": "https://raw.githubusercontent.com/KenKout/vBook/refs/heads/main/Archive.zip",
+      "version": 1,
+      "source": "https://github.com/KenKout/vBook",
+      "icon": "https://play-lh.googleusercontent.com/MiM84uiH2G0fAhw6DweFERalUVxt26Ral3v2fTFS9cyNVcfRC3Au7hVP5QCBkjmTTQ",
+      "description": "Fanqie",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
